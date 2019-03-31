@@ -1,4 +1,4 @@
-FROM java:8-jre-alpine
+FROM openjdk:8-jre-alpine
 
 MAINTAINER Sylwester Sokolowski <sylwek.sokolowski@gmail.com>
 
